@@ -55,10 +55,4 @@ The preprocessing pipeline successfully:
 - Encodes categorical variables
 - Produces clean, analysis-ready datasets
 
-### 6. Group Contribution
 
-IT 24103866 - Obesekara S.O.K.D
-IT 24103886 - Kapuge K.H.P.P
-IT 24103938 - Premathilaka S.W.G.A.S
-IT 24103952 - Harini R.
-IT 24103976 - Bandara R.V.M.R.N
